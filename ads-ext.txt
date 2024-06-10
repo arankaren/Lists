@@ -18,6 +18,7 @@
 0.0.0.0 ads-api.tiktok.com
 0.0.0.0 adtech.yahooinc.com
 0.0.0.0 advertising-api-eu.amazon.com
+0.0.0.0 amazon-analytic.com
 0.0.0.0 analytics-api.samsunghealthcn.com
 0.0.0.0 analytics-sg.tiktok.com
 0.0.0.0 api-adservices.apple.com
